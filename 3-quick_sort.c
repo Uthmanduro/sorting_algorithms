@@ -1,5 +1,4 @@
 #include "sort.h"
-#include <stdio.h>
 
 /**
  * partition - finds the partition for the quicksort using the Lomuto scheme
